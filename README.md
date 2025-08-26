@@ -6,7 +6,7 @@ A **MERN stack** web application that allows users to create and manage **travel
 
 ## Demo 
 
-[![TravelSLip Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/EotuqWqNbHg)
+[![TravelSLip Demo](https://img.youtube.com/vi/EotuqWqNbHg/0.jpg)](https://www.youtube.com/watch?v=EotuqWqNbHg)
 
 ## 🚀 Features
 
