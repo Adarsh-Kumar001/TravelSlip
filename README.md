@@ -57,5 +57,9 @@ A **MERN stack** web application that allows users to create and manage **travel
 
 ---
 
+THE CSV FILE MUST CONTAIN THIS CSV Format
 
+Required columns: Name,Email,Age,Seat
+
+FOR IT TO WORK
 
