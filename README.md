@@ -23,7 +23,8 @@ A **MERN stack** web application that allows users to create and manage **travel
 
 ### Frontend
 - **React.js** 
-- **Tailwind CSS** 
+- **Tailwind CSS**
+- Papa Parse - for csv parsing
 
 ### Backend
 - **Node.js + Express.js** – Server and API handling  
@@ -32,7 +33,6 @@ A **MERN stack** web application that allows users to create and manage **travel
 ### PDF & Email
 - **pdf-lib** – PDF generation and formatting  
 - **Nodemailer** – Sending emails with ticket attachments  
-- **multer + csv-parser** – CSV upload & parsing for passengers  
 
 ---
 
