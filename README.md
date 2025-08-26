@@ -1,8 +1,12 @@
 # ✈️ Travel Itinerary & Ticket PDF Generator
 
-A **MERN stack** web application that allows users to create and manage **travel itineraries**. It generates **personalized travel tickets as PDFs**, sends them via **email**, and also allows **Google Drive integration** for automatic uploads.  
+A **MERN stack** web application that allows users to create and manage **travel itineraries**. It generates **travel itinerary as PDFs**, sends them via **email** automatically.
 
 ---
+
+## Demo 
+
+[![TravelSLip Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/EotuqWqNbHg)
 
 ## 🚀 Features
 
